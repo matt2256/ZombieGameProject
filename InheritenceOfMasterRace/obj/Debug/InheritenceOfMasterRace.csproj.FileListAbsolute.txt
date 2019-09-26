@@ -1,0 +1,7 @@
+C:\Users\mads758e\source\repos\InheritenceOfMasterRace\InheritenceOfMasterRace\bin\Debug\InheritenceOfMasterRace.exe.config
+C:\Users\mads758e\source\repos\InheritenceOfMasterRace\InheritenceOfMasterRace\bin\Debug\InheritenceOfMasterRace.exe
+C:\Users\mads758e\source\repos\InheritenceOfMasterRace\InheritenceOfMasterRace\bin\Debug\InheritenceOfMasterRace.pdb
+C:\Users\mads758e\source\repos\InheritenceOfMasterRace\InheritenceOfMasterRace\obj\Debug\InheritenceOfMasterRace.csprojAssemblyReference.cache
+C:\Users\mads758e\source\repos\InheritenceOfMasterRace\InheritenceOfMasterRace\obj\Debug\InheritenceOfMasterRace.csproj.CoreCompileInputs.cache
+C:\Users\mads758e\source\repos\InheritenceOfMasterRace\InheritenceOfMasterRace\obj\Debug\InheritenceOfMasterRace.exe
+C:\Users\mads758e\source\repos\InheritenceOfMasterRace\InheritenceOfMasterRace\obj\Debug\InheritenceOfMasterRace.pdb
